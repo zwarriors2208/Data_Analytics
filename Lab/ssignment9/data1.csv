@@ -1,0 +1,11 @@
+,Tom,Brick,Harry
+True,1,red,
+False,2,blue,Alice
+True,3,green,3.14
+False,4,4,True
+True,5,5,Bob
+False,six,6,6
+True,seven,7.5,7
+False,8.0,,8
+True,9.5,ten,Charlie
+False,True,False,10
